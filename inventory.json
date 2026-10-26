@@ -1,6 +1,6 @@
 {
   "dealership": "Haley Dodge Sc",
-  "generated_at": "2026-10-25T18:37:57",
+  "generated_at": "2026-10-25T18:46:15",
   "vehicle_count": 53,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -257,7 +257,7 @@
     {
       "name": "2026 DODGE CHARGER R/T",
       "vin": "2C3CDAPP7TR288317",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/816169ceb38f.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/9e2564e04504.html",
       "year": 2026,
       "make": "DODGE",
       "model": "Charger",
@@ -266,7 +266,7 @@
     {
       "name": "2026 DODGE CHARGER SCAT PACK",
       "vin": "2C3CDAMP4TR271740",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/b4617646c691.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/950be0ffa9c2.html",
       "year": 2026,
       "make": "DODGE",
       "model": "Charger",
@@ -309,18 +309,18 @@
       "condition": "new"
     },
     {
-      "name": "2026 JEEP WRANGLER SPORT",
-      "vin": "1C4PJXAN0TW196103",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/2910f1b500c5.html",
+      "name": "2026 JEEP WRANGLER SAHARA",
+      "vin": "1C4PJXEG2TW243367",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/edd3fc652a9a.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Wrangler",
       "condition": "new"
     },
     {
-      "name": "2026 JEEP WRANGLER SAHARA",
-      "vin": "1C4PJXEG2TW243367",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/7fcad91f633c.html",
+      "name": "2026 JEEP WRANGLER SPORT",
+      "vin": "1C4PJXAN0TW196103",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/78ba9be65398.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Wrangler",
@@ -329,7 +329,7 @@
     {
       "name": "2026 RAM 1500 EXPRESS",
       "vin": "3C6RRFGG3T4159171",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/8cc4057d803b.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/dec545ce89b1.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -338,7 +338,7 @@
     {
       "name": "2026 RAM 1500 LIMITED",
       "vin": "1C6SRFHP2TN232925",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/5df79ef97fd0.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/5648dcb27e87.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -347,7 +347,7 @@
     {
       "name": "2026 RAM 1500 LIMITED",
       "vin": "1C6SRFHP4TN237205",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/485ba471e853.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/7e94808de88d.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -356,7 +356,7 @@
     {
       "name": "2026 RAM 1500 LIMITED LONGHORN",
       "vin": "1C6SRFHPXTN312733",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/bd8c24c21f98.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/a07c3e0f9995.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -365,7 +365,7 @@
     {
       "name": "2026 RAM 1500 REBEL",
       "vin": "1C6SRFLT0TN397411",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/3c3ff026dfbe.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/1715f3733285.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -374,7 +374,7 @@
     {
       "name": "2026 RAM 1500 REBEL",
       "vin": "1C6SRFLT9TN397410",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/f10dccbfeb44.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/62e1d4e43a33.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -419,7 +419,7 @@
     {
       "name": "2026 RAM 3500 LARAMIE",
       "vin": "3C63R3EL0TG288763",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/a5f3837604b2.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/13a6aa80281c.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
@@ -428,7 +428,7 @@
     {
       "name": "2026 RAM 5500 CHASSIS TRADESMAN",
       "vin": "3C7WRNBL4TG314841",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/eabd671a57ba.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/d6889cafe39a.html",
       "year": 2026,
       "make": "RAM",
       "model": "5500",
@@ -464,7 +464,7 @@
     {
       "name": "2027 RAM 3500 BIG HORN",
       "vin": "3C63R3DL6VG384790",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/b8522c254e05.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/2fe8ee3a4094.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
@@ -473,7 +473,7 @@
     {
       "name": "2027 RAM 3500 BIG HORN",
       "vin": "3C63RRHL0VG377914",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/5d71dd3652de.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/9b74a9064245.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
