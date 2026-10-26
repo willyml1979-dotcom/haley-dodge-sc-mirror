@@ -1,6 +1,6 @@
 {
   "dealership": "Haley Dodge Sc",
-  "generated_at": "2026-10-26T03:50:36",
+  "generated_at": "2026-10-26T03:57:18",
   "vehicle_count": 53,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -283,8 +283,8 @@
     },
     {
       "name": "2026 JEEP CHEROKEE LAREDO",
-      "vin": "3C4PJMB28TT239983",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/5f54f9d5a672.html",
+      "vin": "3C4PJMB26TT206755",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/68abc5e0fd42.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
@@ -294,6 +294,15 @@
       "name": "2026 JEEP CHEROKEE OVERLAND",
       "vin": "3C4PJMC26TT196534",
       "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/d5ffa2e7ce8c.html",
+      "year": 2026,
+      "make": "JEEP",
+      "model": "Cherokee",
+      "condition": "new"
+    },
+    {
+      "name": "2026 JEEP CHEROKEE OVERLAND",
+      "vin": "3C4PJMC29TT243653",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/26f062f7ed95.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
@@ -393,15 +402,6 @@
       "name": "2026 RAM 1500 SPORT",
       "vin": "3C6SRFVP2T4172756",
       "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/7a32e3d8cb20.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 1500 TRADESMAN",
-      "vin": "3C6SRFGP9T4180348",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/37d9c0625ee7.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
