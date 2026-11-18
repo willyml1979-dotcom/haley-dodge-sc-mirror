@@ -1,7 +1,7 @@
 {
   "dealership": "Haley Dodge Sc",
-  "generated_at": "2026-11-16T21:51:05",
-  "vehicle_count": 57,
+  "generated_at": "2026-11-17T19:31:58",
+  "vehicle_count": 59,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -36,6 +36,17 @@
       "model": "WRX",
       "condition": "new",
       "price": 16989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 FORD MUSTANGECOBOOST PREMIUM",
+      "vin": "1FATP8UH9G5300825",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/used/063082c3e014.html",
+      "year": 2016,
+      "make": "FORD",
+      "model": "Mustang",
+      "condition": "used",
+      "price": 38789.0,
       "price_currency": "CAD"
     },
     {
@@ -281,6 +292,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 FORD F-150TREMOR",
+      "vin": "1FTFW4L53SFA67604",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/used/56c9751f59a2.html",
+      "year": 2025,
+      "make": "FORD",
+      "model": "F-150",
+      "condition": "used",
+      "price": 38789.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 JEEP WRANGLERSAHARA",
       "vin": "1C4PJXEN1SW552390",
       "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/used/3b226bdc0a13.html",
@@ -332,7 +354,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 71530.0,
+      "price": 73530.0,
       "price_currency": "CAD"
     },
     {
