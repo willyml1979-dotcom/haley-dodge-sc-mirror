@@ -1,6 +1,6 @@
 {
   "dealership": "Haley Dodge Sc",
-  "generated_at": "2026-11-17T19:44:09",
+  "generated_at": "2026-11-18T05:26:06",
   "vehicle_count": 59,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -46,6 +46,17 @@
       "make": "FORD",
       "model": "Mustang",
       "condition": "used",
+      "price": 38789.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 FORD MUSTANGECOBOOST PREMIUM",
+      "vin": "1FATP8UH9G5300825",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/063082c3e014.html",
+      "year": 2016,
+      "make": "FORD",
+      "model": "Mustang",
+      "condition": "new",
       "price": 38789.0,
       "price_currency": "CAD"
     },
@@ -112,17 +123,6 @@
       "make": "CAN",
       "model": "AM OUTLANDER650 MAX XT",
       "condition": "used",
-      "price": 10989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 CAN AM OUTLANDER650 MAX XT",
-      "vin": "3JBLPAJ43NJ001068",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/77cc4bc56978.html",
-      "year": 2022,
-      "make": "CAN",
-      "model": "AM OUTLANDER650 MAX XT",
-      "condition": "new",
       "price": 10989.0,
       "price_currency": "CAD"
     },
@@ -424,25 +424,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP WRANGLERSAHARA",
-      "vin": "1C4PJXEG2TW243367",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/edd3fc652a9a.html",
-      "year": 2026,
-      "make": "JEEP",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 58999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 JEEP WRANGLERSPORT",
+      "name": "2026 JEEP WRANGLERSport",
       "vin": "1C4PJXAN0TW196103",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/78ba9be65398.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/2910f1b500c5.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Wrangler",
       "condition": "new",
       "price": 41999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 JEEP WRANGLERWhitecap Edition",
+      "vin": "1C4PJXEG2TW243367",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/7fcad91f633c.html",
+      "year": 2026,
+      "make": "JEEP",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 58999.0,
       "price_currency": "CAD"
     },
     {
@@ -479,9 +479,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500LIMITED",
+      "name": "2026 RAM 1500Limited",
       "vin": "1C6SRFHP2TN232925",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/5648dcb27e87.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/5df79ef97fd0.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -490,9 +490,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500LIMITED",
+      "name": "2026 RAM 1500Limited",
       "vin": "1C6SRFHP4TN237205",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/7e94808de88d.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/485ba471e853.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -501,9 +501,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500LIMITED LONGHORN",
+      "name": "2026 RAM 1500Longhorn",
       "vin": "1C6SRFHPXTN312733",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/a07c3e0f9995.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/bd8c24c21f98.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -512,9 +512,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500REBEL",
+      "name": "2026 RAM 1500Rebel",
       "vin": "1C6SRFLT0TN397411",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/1715f3733285.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/3c3ff026dfbe.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -523,25 +523,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500REBEL",
+      "name": "2026 RAM 1500Rebel",
       "vin": "1C6SRFLT9TN397410",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/62e1d4e43a33.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/f10dccbfeb44.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
       "price": 81999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500SPORT",
-      "vin": "1C6SRFVT5TN408156",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/c12c11be8d4a.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 77895.0,
       "price_currency": "CAD"
     },
     {
@@ -556,6 +545,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 RAM 1500Sport",
+      "vin": "1C6SRFVT5TN408156",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/593432a530b8.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 77895.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 RAM 1500WARLOCK",
       "vin": "3C6SRFGP0T4180349",
       "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/4867e1c5e5a3.html",
@@ -567,9 +567,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500LARAMIE",
+      "name": "2026 RAM 3500Laramie",
       "vin": "3C63R3EL0TG288763",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/13a6aa80281c.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/a5f3837604b2.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
@@ -578,9 +578,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 5500 CHASSISTRADESMAN",
+      "name": "2026 RAM 5500 CHASSISTradesman",
       "vin": "3C7WRNBL4TG314841",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/d6889cafe39a.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/eabd671a57ba.html",
       "year": 2026,
       "make": "RAM",
       "model": "5500",
@@ -600,9 +600,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 CHRYSLER PACIFICASELECT",
+      "name": "2027 CHRYSLER PACIFICASelect AWD",
       "vin": "2C4RC3BG6VR569801",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/8cfe75f502c0.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/2eda05175c59.html",
       "year": 2027,
       "make": "CHRYSLER",
       "model": "Pacifica",
@@ -611,12 +611,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 JEEP WRANGLERWILLYS",
+      "name": "2027 JEEP WRANGLER4-Door Willys",
       "vin": "1C4RJXDG8VW573754",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/cb425c1dfdea.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/312b87776053.html",
       "year": 2027,
       "make": "JEEP",
-      "model": "Wrangler",
+      "model": "WRANGLER4-Door Willys",
       "condition": "new",
       "price": 75305.0,
       "price_currency": "CAD"
@@ -633,9 +633,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500BIG HORN",
+      "name": "2027 RAM 3500Big Horn",
       "vin": "3C63RRHL0VG377914",
-      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/9b74a9064245.html",
+      "url": "https://willyml1979-dotcom.github.io/haley-dodge-sc-mirror/new/5d71dd3652de.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
